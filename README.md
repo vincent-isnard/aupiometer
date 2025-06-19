@@ -38,5 +38,5 @@ The Aupiometer: an open-source audiometer with Raspberry Pi
 2) Launch Pure Data and add all the folders in the Pure Data paths.
 3) Reconfigure Patchbox for automatic start of the patch: "patchbox" in the terminal, then "wizard", and select the same options than previously except "Option for autolaunch": select "main.pd", which corresponds to the main patch of the Aupiometer.
 
-### Reference
+## Reference
 Isnard, V., Chastres, V., & Andéol, G. (2024). Description of a new low-cost and open-source audiometer and its validation with normal-hearing listeners: The Aupiometer. Plos one, 19(8), e0306751. [with Aupiometer version 0.6]
