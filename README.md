@@ -3,7 +3,7 @@ The Aupiometer: an open-source audiometer with Raspberry Pi
 
 ## Changelog
 ### Version 0.7 (June 19, 2025)
-1) [All] Display ergonomics.
+1) [All] New display ergonomics and a configuration file to save the settings.
 2) [Home page] Added a switch button to choose the language (French or English).
 3) [Pure-tone audiometry] Added the 63 Hz frequency with 25 dB more than for 125 Hz (cf. Moller & Pedersen, 2004). /!\ Not calibrated with participants.
 4) [Pure-tone audiometry] Added a calibration module accessible in the configuration module where the calibration values ​​are set (or directly accessible from the 'externals' folder).
