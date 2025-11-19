@@ -10,7 +10,7 @@ The Aupiometer: an open-source audiometer with Raspberry Pi
 5) [Pure-tone audiometry] Added a graphics module to plot the audiogram.
 6) [Speech audiometry] Added speech audiometry test interfaces (digits, logatomes, MRT, CRM). /!\ Not calibrated with participants.
 7) [Tinnitus] Added Tinnitus Handicap Inventory (Newman et al., 1996) and visual analogue scales (Ohresser, 2017).
-8) [Hyperacusis] Added Hyperacusis Questionnaire (Khalfa et al., 2002) and visual analogue scales (Fernandez & Isnard, in preparation).
+8) [Hyperacusis] Added Hyperacusis Questionnaire (Khalfa et al., 2002) and visual analogue scales (Fernandez & Isnard, 2025).
 9) [15iSSQ] Added Speech, Spatial and Qualities of Hearing 15-item questionnaire (Ferschneider et al., 2022).
 
 ## Installation of the Aupiometer
